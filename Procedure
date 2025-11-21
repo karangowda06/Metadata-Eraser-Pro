@@ -1,0 +1,8 @@
+1. Install Dependencies
+
+use this command in cmd - pip install PyQt5 Pillow PyPDF2 pymupdf
+
+2. Install FFmpeg
+
+3. Run the file using cmd- 
+python MetadataEraser.py
